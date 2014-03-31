@@ -27,4 +27,11 @@
 			</plugin>
 		</plugins>
 	</build>
+	<dependencies>
+		<dependency>
+			<groupId>MotoboyService</groupId>
+			<artifactId>MotoboyService</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+	</dependencies>
 </project>
