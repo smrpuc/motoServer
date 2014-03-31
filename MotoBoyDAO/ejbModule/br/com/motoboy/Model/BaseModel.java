@@ -1,4 +1,4 @@
-package br.com.motoboy.model;
+package br.com.motoboy.Model;
 
 public interface BaseModel<T> {
 
